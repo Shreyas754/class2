@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background-color: beige;
+    color: chocolate;
+}
+
+h1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#sortbutton {
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#submitbutton {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+input {
+    margin: 10px;
+}
